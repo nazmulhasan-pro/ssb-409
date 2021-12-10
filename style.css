@@ -1,0 +1,53 @@
+header{
+background-color: green;
+text-align: center;
+
+}
+
+nav{
+background-color: greenyellow;
+text-align: center;
+height: 100px;
+
+}
+
+.section-main{
+overflow: hidden;
+
+}
+
+.section{
+width: 60%;
+height: 500px;
+background-color: tomato;
+float: left;
+text-align: center;
+}
+
+.section-1{
+
+height: 50%;
+background-color: turquoise;
+text-align: center;
+
+
+}
+
+.aside{
+
+    width: 40%;
+    height: 500px;
+    background-color: violet;
+    float: right;
+    text-align: center;
+
+}
+
+footer{
+
+background-color: yellow;
+height: 200px;
+text-align: center;
+
+}
+
